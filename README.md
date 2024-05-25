@@ -4,7 +4,8 @@
 
 Control Flow Graph
 
-![TGraf drawio](https://github.com/ditoelrey/SI_2024_lab2_223268/assets/138317237/5f5f38b0-68c2-4f84-ab21-48df1b6dc225)
+
+![Screenshot 2024-05-25 164702](https://github.com/ditoelrey/SI_2024_lab2_223268/assets/138317237/c8ad0434-08bd-47ba-a5dd-226d24fb6137)
 
 
 Цикломатска комплексност - 10
